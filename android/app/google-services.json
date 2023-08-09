@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "337387485607",
+    "project_id": "ecommerce-app-flutter-b97f7",
+    "storage_bucket": "ecommerce-app-flutter-b97f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337387485607:android:a9a82676e4d41a70c41e82",
+        "android_client_info": {
+          "package_name": "com.example.flutter_office_furniture_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337387485607-lol0a1jkl4jg9ukll2h31it8bh45bld2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_office_furniture_store_app",
+            "certificate_hash": "7799d7b77bc69ca827cd8b9ea516022059ac0109"
+          }
+        },
+        {
+          "client_id": "337387485607-7ukpitnripc7nicbgcu9guhgnvbsmaps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiyLoAjk7H3YcbDiZKdwcQMuTd37MdjHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337387485607-7ukpitnripc7nicbgcu9guhgnvbsmaps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
